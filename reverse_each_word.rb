@@ -12,7 +12,7 @@ array.collect do |element|
      
 
   end
-   
+   #I have to join them 
   final.join(" ")
 end 
 
